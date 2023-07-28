@@ -5,7 +5,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.Description;
 
-import constants.Token;
+import com.sezo.demo.constant.Token;
+
 import io.restassured.RestAssured;;
 
 @SpringBootTest

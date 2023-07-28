@@ -1,4 +1,4 @@
-package constants;
+package com.sezo.demo.constant;
 
 
 public class Token {

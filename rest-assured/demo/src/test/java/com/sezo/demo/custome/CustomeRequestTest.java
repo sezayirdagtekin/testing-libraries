@@ -1,4 +1,4 @@
-package custome;
+package com.sezo.demo.custome;
 
 import static org.hamcrest.CoreMatchers.containsString;
 
