@@ -1,4 +1,4 @@
-package com.sezo.compostion;
+package com.sezo.demo.compostion;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 

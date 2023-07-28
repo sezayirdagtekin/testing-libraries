@@ -1,4 +1,4 @@
-package com.sezo.compostion;
+package com.sezo.demo.compostion;
 
 import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;

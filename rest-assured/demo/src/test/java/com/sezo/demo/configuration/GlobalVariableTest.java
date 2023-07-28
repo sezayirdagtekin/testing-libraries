@@ -1,4 +1,4 @@
-package com.sezo.configuration;
+package com.sezo.demo.configuration;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
